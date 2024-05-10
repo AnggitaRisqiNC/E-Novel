@@ -11,18 +11,19 @@
 
 ## Daftar Isi <br>
 
-| No  | Description                 | Link                                                                                                             |
-| --- | --------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 1   | Introduction                | [Click Here](#introduction)                                                                                      |
-| 2   | Which Is Use                | [Click Here](#which-is-used)                                                                                     |
-| 3   | Demo Program (Link Youtube) | [Click Here](https://youtu.be/l9UOEl6K1lI?si=Fbhaxp-19qG36_OW)                                                   |
-| 4   | Laporan Project             | [Click Here](https://github.com/AnggitaRisqiNC/E-Novel/files/15246002/Laporan.Project.UTS.Pemrograman.Web.2.pdf) |
+| No  | Description        | Link                                                                                               |
+| --- | ------------------ | -------------------------------------------------------------------------------------------------- |
+| 1   | Introduction       | [Click Here](#introduction)                                                                        |
+| 2   | Which Is Use       | [Click Here](#which-is-used)                                                                       |
+| 3   | Link Video Youtube | [Click Here](https://youtu.be/l9UOEl6K1lI?si=Fbhaxp-19qG36_OW)                                     |
+| 4   | Laporan Project    | [Click Here](https://github.com/AnggitaRisqiNC/E-Novel/files/15268797/Laporan.Project.UTS.Web.pdf) |
+| 5   | Demo Program       | [Click Here](https://naespa.my.id/)                                                                |
 
 ## Introduction
 
 **1. Pendahuluan**
 
-Sistem Peminjaman Novel Offline ini dirancang untuk membantu mengelola koleksi novel dan proses peminjamannya secara offline. Sistem ini menyediakan fungsionalitas bagi admin untuk menambahkan, mengubah, dan menghapus data novel, serta mengelola proses peminjaman.
+Sistem Peminjaman Novel ini dirancang untuk membantu mengelola koleksi novel dan proses peminjamannya secara offline. Sistem ini menyediakan fungsionalitas bagi admin untuk menambahkan, mengubah, dan menghapus data novel, serta mengelola proses peminjaman.
 
 **2. Fitur Utama**
 
@@ -51,6 +52,11 @@ Sistem Peminjaman Novel Offline ini dirancang untuk membantu mengelola koleksi n
 - Perangkat keras: Komputer dan Laptop dengan web browser yang kompatibel.
 - Perangkat lunak: XAMPP, VSCode, Web browser yang kompatibel (Chrome, Firefox, Safari, Edge, dll.).
 
+**4. Akun Admin (Login)**
+
+- Username: _admin_
+- Password: _admin_
+
 ## Which Is Used
 
 1. **XAMPP**
@@ -65,6 +71,8 @@ Sistem Peminjaman Novel Offline ini dirancang untuk membantu mengelola koleksi n
 
 Terima kasih telah meluangkan waktu untuk membaca penjelasan mengenai **Project UTS Pemrograman Web 2** kami hingga akhir tentang Sistem Informasi **_Peminjaman Novel (E-Novel)_**.
 
-Kami harap penjelasan ini dapat memberikan gambaran yang jelas tentang fitur-fitur yang tersedia di website Peminjaman Novel ini.
+Kami harap penjelasan ini dapat memberikan gambaran yang jelas tentang fitur-fitur yang tersedia di website Peminjaman Novel ini. 😄
+
+> _**Note:** Apabila website kami (Demo Program) ada kendala dan tidak dapat dibuka silahkan lihat dokumentasinya melalui video youtube kami._ 😊
 
 ~ _**Kelompok 4**_
